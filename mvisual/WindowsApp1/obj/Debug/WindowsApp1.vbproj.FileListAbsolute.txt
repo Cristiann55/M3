@@ -1,0 +1,11 @@
+C:\Users\crist\OneDrive\Escritorio\M3\M3\mvisual\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\crist\OneDrive\Escritorio\M3\M3\mvisual\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\crist\OneDrive\Escritorio\M3\M3\mvisual\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\crist\OneDrive\Escritorio\M3\M3\mvisual\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\crist\OneDrive\Escritorio\M3\M3\mvisual\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\crist\OneDrive\Escritorio\M3\M3\mvisual\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\crist\OneDrive\Escritorio\M3\M3\mvisual\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\crist\OneDrive\Escritorio\M3\M3\mvisual\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\crist\OneDrive\Escritorio\M3\M3\mvisual\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\crist\OneDrive\Escritorio\M3\M3\mvisual\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\crist\OneDrive\Escritorio\M3\M3\mvisual\WindowsApp1\obj\Debug\WindowsApp1.pdb
